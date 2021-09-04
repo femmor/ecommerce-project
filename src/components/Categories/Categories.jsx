@@ -1,7 +1,10 @@
 import React from 'react'
+import styled from 'styled-components'
+
+const Container = styled.div``
 
 const Categories = () => {
-  return <div>Categories</div>
+  return <Container>Categories</Container>
 }
 
 export default Categories
