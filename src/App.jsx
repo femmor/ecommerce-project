@@ -8,7 +8,6 @@ const App = () => {
   return (
     <>
       <Home />
-      <Navbar />
       <Slider />
       <Categories />
       <Products />
