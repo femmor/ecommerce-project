@@ -9,7 +9,6 @@ const Container = styled.div`
   justify-content: space-between;
   padding: 20px;
 `
-
 const Products = () => {
   return (
     <Container>
